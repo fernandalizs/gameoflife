@@ -23,4 +23,4 @@ npm install
 npm run serve
 ```
 ![Autômoto celular em Vue.JS por Fernanda Liz](src/assets/Jogo_da_vida_vue.gif "Autômoto celular em Vue") <br>
-Inspired by: [Tony Lâmpada](https://plataforma.busertech.com.br/87566-tarefas-buser-tech/2098641-20221221-life-o-jogo-da-vida-em-vue-js)
+Inspired by: [Tony Lâmpada](https://www.youtube.com/watch?v=Wzx1Lg035F4)
