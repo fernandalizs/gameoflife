@@ -10,7 +10,10 @@ Cellular automaton in Python and Vue.JS
 pip install -r requirements.txt
 python3 life.py
 ```
+### How to play
+Select cells and click space to start or pause
 ![Autômoto celular em python por Fernanda Liz](src/assets/Jogo_da_vida_python.gif "Autômoto celular em python")
+Inspired by: [NeuralNine](https://www.youtube.com/watch?v=cRWg2SWuXtM)
 ## Project setup Vue
 ```
 npm install
@@ -20,3 +23,4 @@ npm install
 npm run serve
 ```
 ![Autômoto celular em Vue.JS por Fernanda Liz](src/assets/Jogo_da_vida_vue.gif "Autômoto celular em Vue")
+Inspired by: [Tony Lâmpada](https://plataforma.busertech.com.br/87566-tarefas-buser-tech/2098641-20221221-life-o-jogo-da-vida-em-vue-js)
